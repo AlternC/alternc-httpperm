@@ -1,0 +1,5 @@
+
+
+* * * * * root cd /usr/lib/alternc && php httpperm_cron.php &>/dev/null
+
+
